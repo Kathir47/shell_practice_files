@@ -12,7 +12,7 @@ cpu=$(top -bn1 | grep "Cpu(s)" | awk '{print $2}')
 
 echo "⚙️  CPU Usage    : $cpu%"
 
-
+# files are added
 # ===== MEMORY USAGE =====
 # total_mem=$(free -h | awk '/Mem:/ {print $2}')
 # used_mem=$(free -h | awk '/Mem:/ {print $3}')
