@@ -1,0 +1,10 @@
+INFO: Server started successfully
+INFO: User logged in
+ERROR: Database connection failed
+WARNING: High memory usage detected
+INFO: Backup completed
+ERROR: File not found
+WARNING: CPU usage above 80%
+INFO: User logged out
+ERROR: Network timeout
+INFO: Server running normally
